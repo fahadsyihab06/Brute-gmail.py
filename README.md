@@ -6,8 +6,8 @@ gunakan tools dengan bijak
 
 ## Installation :point_left:
 ```
-git clone https://github.com/fahadsyihab06/Brute-gmail
-cd Brute-gmail
+git clone https://github.com/fahadsyihab06/Brute-gmail.py
+cd Brute-gmail.py
 ```
 ## CLI Commands :point_left:
 ```
