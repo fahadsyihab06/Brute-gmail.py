@@ -1,4 +1,4 @@
-# Brute-gmail.py
+# Brute-gmail
 gunakan tools dengan bijak
 
 
